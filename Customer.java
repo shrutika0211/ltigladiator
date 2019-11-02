@@ -6,4 +6,8 @@ class Customer
   {
    return CustId;
   }
+  public int setCustId()
+  {
+   return CustId;
+  }
 }
