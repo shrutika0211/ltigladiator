@@ -10,4 +10,7 @@ class Customer
   {
    return CustId;
   }
+  public void showCustName{
+  return CustName;
+  }
 }
